@@ -36,8 +36,8 @@ output.jpeg
 *.svg
 *.pdf
 *.webp
-*.txt
-*.json
+#*.txt
+#*.json
 *.csv
 *.tsv
 !config.json
